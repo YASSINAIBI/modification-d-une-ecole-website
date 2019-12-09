@@ -1,0 +1,14 @@
+Développeur d'Applications Mobiles | Formation Complète 2019 
+Créer un site web Pro en C# avec ASP.NET MVC 6 et Bootstrap 
+Devenez développeur Java
+Angular 6, Angular Material et RxJS 6 par la pratique  
+Apprendre Node.js & Créer une API REST de A à Z ! 
+HTML5 et CSS3 : la formation ULTIME
+
+
+display: inline-block;
+vertical-align: baseline;
+width: 1260px;
+height: 500px;
+object-fit: none;
+object-position: -87px 50%;
